@@ -2,7 +2,7 @@
 </br>
 </br>
 <p align="center"> 
-    <img height="400" src="https://github.com/rivo2302/airtel_money_api/master/assets/airtel.png">
+    <img height="150" src="https://github.com/rivo2302/airtel_money_api/blob/main/assets/airtel.png?raw=true">
 </p>
 <div align="center"> 
     <p>
@@ -21,10 +21,11 @@
             <img src="https://img.shields.io/badge/-python-396E9B?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
         </a>
         <a href='https://pypi.org/project/airtel/'> 
-             <img src='https://img.shields.io/pypi/dm/airtle?label=DOWNLOADS&style=for-the-badge'/>
+             <img src='https://img.shields.io/pypi/dm/airtel?label=DOWNLOADS&style=for-the-badge'/>
         </a>
         <a href='#'> 
             <img src='https://img.shields.io/badge/Maintained-Yes-darkgreen?style=for-the-badge'/>
         </a>  
     </p>
 </div>
+
